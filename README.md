@@ -136,4 +136,4 @@ FinTrack is an educational project intended for personal finance tracking and ex
 **Atulya**  
 B.Tech — Computer Science and Engineering
 
-GitHub: [YOUR-GITHUB-PROFILE](https://github.com/YOUR-USERNAME)
+GitHub: [GITHUB-PROFILE](https://github.com/atulyar645-debug)
