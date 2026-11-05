@@ -1,6 +1,6 @@
 # FinTrack — Personal Finance Tracker
 
-FinTrack is a web-based personal finance application designed to help users track transactions, monitor budgets, understand spending patterns, and explore investment suggestions through a single dashboard
+FinTrack is a web-based personal finance application designed to help users track transactions, monitor budgets, understand spending patterns, and explore investment suggestions through a single dashboard.
 
 ## Features
 
